@@ -1,0 +1,60 @@
+#shiyu {
+    margin:auto;
+    padding:0;
+    background:rgb(255, 255, 255);
+}
+#shiyu .head{
+    width: 1326px;
+    height: 85px;
+    background:rgb(233, 233, 233);
+}
+#shiyu .banner{
+    width: 1326px;
+    height: 700px;
+    background: url(../images/shiyu.jpg);
+}
+#shiyu .main1{
+    width: 1326px;
+    height: 210px;
+    background: rgb(38, 24, 77);
+}
+#shiyu .main2{
+    width: 1326px;
+    height: 600px;
+    background:rgb(255, 255, 255);
+}
+#shiyu .main3{
+    width: 1326px;
+    height: 715px;
+    background: rgb(185, 184, 184);
+}
+#shiyu .main4{
+    width: 1326px;
+    height: 430px;
+    background: url(../images/shiyu1.jpg);
+}
+#shiyu .main5{
+    width:1326px;
+    height: 600px;
+    background: rgb(255, 255, 255);
+}
+#shiyu .main6{
+    width: 1326px;
+    height: 535px;
+    background:rgb(178, 252, 255);
+}
+#shiyu .main7{
+    width: 1326px;
+    height: 710px;
+    background: rgb(255, 255, 255);
+}
+#shiyu .main8{
+    width: 1326px;
+    height: 520px;
+    background: grey;
+}
+#shiyu .footer{
+    width: 1326px;
+    height: 265px;
+    background:rgb(22, 57, 109);
+}
