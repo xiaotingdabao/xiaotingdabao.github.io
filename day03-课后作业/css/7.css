@@ -1,0 +1,115 @@
+#she{
+    width: 1335px;
+    height: 633px;
+    margin: auto;
+
+}
+#she .title{
+    margin-top: 20px;
+    font-size: 30px;
+    color: #000;
+    line-height: 60px;
+    text-align: center;
+}
+#she .stitle{
+    font-size: 16px;
+    line-height: 86px;
+    color:grey;
+    margin-left: 533px;
+}
+#she .xwen{
+    width: 1200px;
+    margin-left: 58px;
+    float: left;
+}
+#she .xwen1{
+    width: 380px;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#she .xwen2{
+    width: 380px;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#she .xwen3{
+    width: 380px;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#she .img1{
+    float: left;
+    width: 380px;
+    height: 150px;
+    background: url(../img7/7-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#she .img2{
+    float: left;
+    width: 380px;
+    height: 150px;
+    background: url(../img7/7-2.jpg);
+}
+#she .img3{
+    float: left;
+    width: 380px;
+    height: 150px;
+    background: url(../img7/7-3.jpg);
+}
+#she .t1{
+    font-size: 16px;
+    line-height: 48px;
+    color:#000;
+    text-align: left;
+}
+#she .p1{
+    font-size: 12px;
+    color:grey;
+    line-height: 22px;
+    text-align: left;
+}
+#she .t2{
+    font-size: 16px;
+    line-height: 48px;
+    color:#000;
+    text-align: left;
+}
+#she .p2{
+    font-size: 12px;
+    color:grey;
+    line-height: 22px;
+    text-align: left;
+}
+#she .t3{
+    font-size: 16px;
+    line-height: 48px;
+    color:#000;
+    text-align: left;
+}
+#she .p3{
+    font-size: 12px;
+    color:grey;
+    line-height: 22px;
+    text-align: left;
+}
+#she .u{
+    color: grey;
+    margin-top: 65px;
+}
+#she .l{
+    font-size: 12px;
+    line-height: 34px;
+    color:#000;
+    text-align: left;
+}
+#she .ls{
+    float: right;
+    font-size: 10px;
+    line-height: 34px;
+    color: grey;
+    text-align: left;
+}

@@ -1,0 +1,89 @@
+#t{
+    width: 1205px;
+    height: 66px;
+    background: #fff;
+}
+#t .box1{
+    width: 158px;
+    height: 58px;
+    background: url(../img5/list1.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    border:1px solid rgb(192, 192, 192);
+    margin-left: 4px;
+    margin-right: 6.5px;
+    margin-top: 3px;
+    float: left;
+}
+#t .box2{
+    width: 158px;
+    height: 58px;
+    background: url(../img5/list2.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    border:1px solid rgb(192, 192, 192);
+    margin-left: 4px;
+    margin-right: 6.5px;
+    margin-top: 3px;
+    float: left;
+}
+#t .box3{
+    width: 158px;
+    height: 58px;
+    background: url(../img5/list3.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    border:1px solid rgb(192, 192, 192);
+    margin-left: 4px;
+    margin-right: 6.5px;
+    margin-top: 3px;
+    float: left;
+}
+#t .box4{
+    width: 158px;
+    height: 58px;
+    background: url(../img5/list4.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    border:1px solid rgb(192, 192, 192);
+    margin-left: 4px;
+    margin-right: 6.5px;
+    margin-top: 3px;
+    float: left;
+}
+#t .box5{
+    width: 158px;
+    height: 58px;
+    background: url(../img5/list5.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    border:1px solid rgb(192, 192, 192);
+    margin-left: 4px;
+    margin-right: 6.5px;
+    margin-top: 3px;
+    float: left;
+}
+#t .box6{
+    width: 158px;
+    height: 58px;
+    background: url(../img5/list6.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    border:1px solid rgb(192, 192, 192);
+    margin-left: 4px;
+    margin-right: 6.5px;
+    margin-top: 3px;
+    float: left;
+}
+#t .box7{
+    width: 158px;
+    height: 58px;
+    background: url(../img5/list7.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    border:1px solid rgb(192, 192, 192);
+    margin-left: 4px;
+    margin-right: 6.5px;
+    margin-top: 3px;
+    float: left;
+}

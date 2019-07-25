@@ -1,0 +1,33 @@
+#xw{
+    width: 1153px;
+    height: 396px;
+}
+#xw .box1{
+    width:570px;
+    height: 396px;
+    margin-top: 26px;
+    float: left;
+}
+#xw .box2{
+    width: 583px;
+    height: 396;
+    margin-top: 26px;
+    float: left;
+}
+#xw .ul{
+    float: left;
+}
+#xw .x{
+    font-size: 15px;
+    color:#000;
+    margin-left: 20px;
+    line-height: 31px;
+    float: left;
+}
+#xw .s{
+    font-size: 15px;
+    color: grey;
+    line-height: 31px;
+    float:right;
+    margin-left: 30px;
+}
