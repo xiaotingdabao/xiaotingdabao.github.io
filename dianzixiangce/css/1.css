@@ -1,0 +1,58 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+#dz{
+    width:100%;
+    height:1080px;
+    background-color:#444;
+}
+#dz .box{
+    width:420px;
+    height:323px;
+    background-color:#666;
+    border:1px solid white;
+    position: fixed;
+    left:50%;
+    top:50%;
+    transform:translate(-50%,-50%);
+    overflow: hidden;
+}
+#dz .box h3{
+    font-size:17px;
+    color:white;
+    text-align: center;
+    margin:16px 0px 15px 0px;
+}
+#dz .box .sbox{
+    width:400px;
+    height:198px;
+    margin-left:20px;
+}
+#dz .box .sbox .left{
+    width:280px;
+    height:196px;
+    border:1px solid white;
+    float: left;
+    overflow: hidden;
+}
+#dz .box .sbox .left .rr{
+    width:278px;
+    height:194px;
+    border:1px solid #9dbff6;
+}
+#dz .box .sbox .right{
+    width:79px;
+    height:198px;
+    margin-left: 39px;
+    float: left;
+    overflow: auto;
+}
+#dz .box .sbox .right .img2{
+    width:56px;
+    height: 39px;
+    border:1px solid white;
+}
+#dz .box .sbox .right a{
+    display: block;
+}
