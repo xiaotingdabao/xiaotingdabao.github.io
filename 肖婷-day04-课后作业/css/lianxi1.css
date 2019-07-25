@@ -1,0 +1,140 @@
+*{
+    margin:0;
+    padding:0;
+}
+#contact{
+    width:1350px;
+    height: 405px;
+    background-color:#1c1c1c;
+    margin:auto;
+    overflow: hidden;
+}
+#contact .title{
+    width:1350px;
+    height:111px;
+    margin-top:42px;
+    text-align:center;
+    background-color:#1c1c1c;
+    margin-bottom:53px;
+}
+#contact h2{
+    font-size: 44px;
+    line-height:44px;
+    color:white;
+    margin-bottom:43px;
+}
+#contact h3{
+    font-size:24px;
+    line-height:24px;
+    color:white;
+}
+#contact .box{
+    width:1184px;
+    height:177px;
+    background-color:#1c1c1c;
+    text-align:center;
+    margin-left:83px;
+}
+#contact .sbox{
+    float: left;
+    width:268px;
+    height:177px;
+    margin-left:14px;
+    margin-right:14px;
+    background-color:#1c1c1c;
+}
+#contact .sbox .sbox1{
+    width:268px;
+    height: 50px;
+    background-color: #1c1c1c;
+    margin-bottom: 22.5px;
+}
+#contact .sbox .sbox2{
+    width:266px;
+    height:80px;
+    border:1px solid #333;
+    margin-bottom: 21px;
+}
+#contact .sbox1 .sbox1-left{
+    width:57px;
+    height:47px;
+    float: left;
+}
+#contact .sbox1 .sbox1-right{
+    width:199px;
+    height:50px;
+    float: left;
+    padding-left: 12px;
+}
+#contact .sbox1-right p{
+    color:white;
+    font-size: 15px;
+    line-height: 25px;
+    text-align: left;
+}
+#contact .sbox1-left .img1{
+    width:100%;
+    height: 100%;
+    float: left;
+    background:url(../img/练习1图片/foot_tel.png);
+}
+#contact .sbox1-left .img2{
+    width:100%;
+    height: 100%;
+    float: left;
+    background:url(../img/练习1图片/foot_wx.png);
+}
+#contact .sbox1-left .img3{
+    width:100%;
+    height: 100%;
+    float: left;
+    background:url(../img/练习1图片/foot_qq.png);
+    background-repeat: no-repeat;
+}
+#contact .sbox1-left .img4{
+    width:100%;
+    height: 100%;
+    float: left;
+    background:url(../img/练习1图片/foot_sq.png);
+}
+#contact .sbox2 .sbox2-left{
+    width:69px;
+    height:80px;
+    float: left;
+}
+#contact .sbox2-left .img5{
+    width:100%;
+    height: 100%;
+    float: left;
+    background: url(../img/练习1图片/foot_c1.png);
+}
+#contact .sbox2 .sbox2-right{
+    width:197px;
+    height:80px;
+    float: left;
+}
+#contact .sbox2-right h4{
+    color:white;
+    font-size: 15px;
+    line-height: 80px;
+    height: 80px;
+    float: left;
+}
+#contact .sbox2-left .img6{
+    width:100%;
+    height: 100%;
+    float: left;
+    background: url(../img/练习1图片/foot_c2.png);
+}
+#contact .sbox2-left .img7{
+    width:100%;
+    height: 100%;
+    float: left;
+    background: url(../img/练习1图片/foot_c3.png);
+}
+#contact .sbox2-left .img8{
+    width:100%;
+    height: 100%;
+    float: left;
+    background: url(../img/练习1图片/foot_c4.png);
+}

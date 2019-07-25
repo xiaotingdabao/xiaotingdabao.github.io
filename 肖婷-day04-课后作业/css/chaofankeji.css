@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#cfkj{
+    background-color: #66adc9;
+    width: 1350px;
+    height: 810px;
+    margin:auto;
+    overflow: hidden;
+}
+#cfkj .title{
+    text-align: center;
+    background: #66adc9;
+    margin-top: 42px;
+}
+#cfkj .title h2{
+    font-size: 44px;
+    color:white;
+    line-height: 44px;
+}
+#cfkj .title h3{
+    font-size: 18px;
+    color:white;
+    line-height: 18px;
+    margin-top: 26px;
+    margin-bottom: 56px;
+}
+#cfkj .box{
+    background-color: #66adc9;
+    width: 1180px;
+    height: 570px;
+    margin-left: 85px;
+    margin-right: 85px;
+}
+#cfkj .box .sb1{
+    width:550px;
+    height:175px;
+    background-color: white;
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 15px;
+}
+#cfkj .box .sb{
+    width:550px;
+    height:175px;
+    background-color: white;
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 15px;
+}
+#cfkj .box .left{
+    width:170px;
+    height: 175px;
+    float: left;
+}
+#cfkj .box .img1{
+    width:100%;
+    height: 100%;
+    text-align: center;
+    background: url(../img/超凡科技/超凡科技1.jpg);
+    background-repeat: no-repeat;
+}
+#cfkj .box .img2{
+    width:100%;
+    height: 100%;
+    float: left;
+    background: url(../img/超凡科技/超凡科技4.jpg);
+    background-repeat: no-repeat;
+}
+#cfkj .box .img3{
+    width:100%;
+    height: 100%;
+    float: left;
+    background: url(../img/超凡科技/超凡科技2.jpg);
+    background-repeat: no-repeat;
+}
+#cfkj .box .img4{
+    width:100%;
+    height: 100%;
+    float: left;
+    background: url(../img/超凡科技/超凡科技5.jpg);
+    background-repeat: no-repeat;
+}
+#cfkj .box .img5{
+    width:100%;
+    height: 100%;
+    float: left;
+    background: url(../img/超凡科技/超凡科技3.jpg);
+    background-repeat: no-repeat;
+}
+#cfkj .box .img6{
+    width:100%;
+    height: 100%;
+    float: left;
+    background: url(../img/超凡科技/超凡科技6.jpg);
+    background-repeat: no-repeat;
+}
+#cfkj .box .right{
+    width: 380px;
+    height: 175px;
+    float: left;
+    padding:20px 0px 0px 0px;
+}
+#cfkj .right .t1{
+    text-align: left;
+    font-size: 15px;
+    color:#000;
+    line-height: 35px;
+}
+#cfkj .right .t2{
+    text-align: left;
+    font-size: 12px;
+    line-height: 22px;
+    color:#777777;
+}
+#cfkj .right .t3{
+    color: #e2d5cc;
+    font-size: 12px;
+    text-align: left;
+    line-height: 42px;
+}
+#cfkj .right span{
+    color: #e2d5cc;
+    font-size: 12px;
+    text-align: right;
+    float: right;
+    line-height: 42px;
+    padding-right:10px;
+}

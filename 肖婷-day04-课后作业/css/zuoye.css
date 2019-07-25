@@ -1,0 +1,287 @@
+*{
+    margin:0;
+    padding:0;
+}
+#zy{
+    width:780px;
+    height:1609px;
+    background-color:#d6dae2;
+    margin:auto;
+    overflow: hidden;
+}
+#zy .box1{
+    width:780px;
+    height:353px;
+    background-color:#f2f1ef;
+    margin-top:20px;
+    margin-bottom:20px;
+    overflow: hidden;
+}
+#zy .box2{
+    width:780px;
+    height:498px;
+    background-color:#f2f1ef;
+    margin-bottom:20px;
+    overflow: hidden;
+}
+#zy .box3{
+    width:780px;
+    height:698px;
+    background-color:#f2f1ef;
+}
+#zy .title{
+    width:740px;
+    height:20px;
+    background-color:#f2f1ef;
+    margin-left:20px;
+    margin-top:20px;
+}
+#zy .title .imgt1{
+    width:20px;
+    height:20px;
+    background:url(../img/作业图片/icon1.png);
+    float: left;
+}
+#zy .title .imgt2{
+    width:20px;
+    height:20px;
+    background:url(../img/作业图片/icon2.png);
+    float: left;
+}
+#zy .title .imgt3{
+    width:20px;
+    height:20px;
+    background:url(../img/作业图片/icon3.png);
+    float: left;
+}
+#zy .title .t1{
+    width:710px;
+    height:20px;
+    color:#000;
+    font-size:20px;
+    line-height:20px;
+    padding-left: 10px;
+    float: left;
+    vertical-align: bottom;
+}
+#zy .title span{
+    font-size:7px;
+    color:#888;
+    float: right;
+}
+#zy .box1 .r1{
+    width:771px;
+    height:273px;
+    margin-left:4.5px;
+    margin-top:20px;
+    background-color:#f2f1ef;
+}
+#zy .r1 .sbox{
+    width:226px;
+    height:273px;
+    margin-left:15.5px;
+    margin-right:15.5px;
+    background-color: white;
+    float: left;
+}
+#zy .sbox .img1{
+    width:226px;
+    height:163px;
+    background:url(../img/作业图片/list1-1.png);
+    float: left;
+    margin-bottom:11.5px;
+}
+#zy .sbox .img2{
+    width:226px;
+    height:163px;
+    background:url(../img/作业图片/list1-2.png);
+    float: left;
+    margin-bottom:11.5px;
+}
+#zy .sbox .img3{
+    width:226px;
+    height:163px;
+    background:url(../img/作业图片/list1-3.png);
+    float: left;
+    margin-bottom:11.5px;
+}
+#zy .b{
+    width:216px;
+    height:88px;
+    padding:0px 0px 10.5px 10px;
+}
+#zy .b .bh{
+    font-size:12px;
+    line-height:25px;
+    color:#000;
+}
+#zy .b .bp{
+    font-size:12px;
+    line-height:21px;
+    color:#888;
+}
+#zy .box2 .s1{
+    margin-left:20px;
+    margin-top:20px;
+    width:740px;
+    height:126px;
+    background-color:white;
+}
+#zy .s1 .s1-left{
+    width:126px;
+    height:126px;
+    float: left;
+}
+#zy .s1-left .imgs1{
+    width:86px;
+    height:86px;
+    margin:20px;
+    background:url(../img/作业图片/list2-1.png);
+    background-repeat: no-repeat;
+    float: left;
+}
+#zy .s1 .s1-right{
+    width:517px;
+    height:126px;
+    float: left;
+}
+#zy .s1-right .k{
+    color:#000;
+    font-size:16px;
+    line-height:16px;
+    height: 16px;
+    text-align:left;
+    padding:20px 0px 10px 0px;
+}
+#zy .s1-right .lb{
+    height:12px;
+    text-align:left;
+}
+#zy .lb .sz{
+    width:12px;
+    height:12px;
+    background:url(../img/作业图片/icon4.png);
+    float: left;
+}
+#zy .lb .rq{
+    color:#888;
+    font-size:9px;
+    line-height:9px;
+    text-align:left;
+    float: left;
+    padding-left:5px;
+}
+#zy .s1-right .kjs{
+    color:#000;
+    font-size:12px;
+    line-height:12px;
+    text-align:left;
+    height: 12px;
+    padding-top:10px;
+}
+#zy .s1 .s1-rright{
+    width:97px;
+    height:92px;
+    float: left;
+}
+#zy .s1-rright .c1{
+    width:97px;
+    height:92px;
+    background:url(../img/作业图片/icon-at.png);
+    background-position:left bottom;
+}
+#zy .s1-rright .c2{
+    width:97px;
+    height:92px;
+    background:url(../img/作业图片/icon-video.png);
+    background-position:left bottom;
+    background-repeat: no-repeat;
+}
+#zy .s1-rright .c3{
+    width:97px;
+    height:92px;
+    background:url(../img/作业图片/icon-laptop.png);
+    background-position:left bottom;
+    background-repeat: no-repeat;
+}
+#zy .s1-left .imgs2{
+    width:86px;
+    height:86px;
+    margin:20px;
+    background:url(../img/作业图片/list2-2.png);
+    background-repeat: no-repeat;
+    float: left;
+}
+#zy .s1-left .imgs3{
+    width:86px;
+    height:86px;
+    margin:20px;
+    background:url(../img/作业图片/list2-3.png);
+    background-repeat: no-repeat;
+    float: left;
+}
+#zy .box3 .b1{
+    width:709px;
+    height:180px;
+    margin-top:20px;
+    margin-left:20px;
+    border-bottom:1px solid #e4e3e2;
+}
+#zy .b1 .b1-left{
+    width:226px;
+    height:160px;
+    float: left;
+    padding-right:20px;
+}
+#zy .b1-left .imgb1{
+    width:226px;
+    height:160px;
+    background:url(../img/作业图片/list3-1.png);
+}
+#zy .b1-left .imgb2{
+    width:226px;
+    height:160px;
+    background:url(../img/作业图片/list3-2.png);
+}
+#zy .b1-left .imgb3{
+    width:226px;
+    height:160px;
+    background:url(../img/作业图片/list3-3.png);
+}
+#zy .b1-right{
+    width:463px;
+    height:160px;
+    text-align:left;
+    float: left;
+}
+#zy .b1-right .bt{
+    color:#000;
+    font-size:17px;
+    line-height:21px;
+    text-align:left;
+    margin-bottom: 12px;
+}
+#zy .b1-right .bb{
+    height:12px;
+    margin-bottom: 29.5px;
+}
+#zy .bb .bb-left{
+    background:url(../img/作业图片/icon4.png);
+    width:12px;
+    height:12px;
+    float: left;
+}
+#zy .bb .bb-right{
+    color:#888;
+    text-align:left;
+    font-size:9px;
+    line-height:9px;
+    padding-left: 7px;
+    float: left;
+}
+#zy .b1-right .bs{
+    text-align: left;
+    color:#000;
+    font-size:12px;
+    line-height:23px;
+}

@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#lian2{
+    width: 1437px;
+    height: 596px;
+    background-color:white;
+    margin:auto;
+}
+#lian2 .title{
+    text-align: center;
+    height: 130px;
+}
+#lian2 .title h2{
+    margin-top: 42px;
+    font-size:30px;
+    color:#000;
+    line-height: 30px;
+}
+#lian2 .title h3{
+    font-size: 18px;
+    color:#818181;
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+#lian2 .box{
+    width:1124px;
+    height: 300px;
+    margin:auto;
+}
+#lian2 .box .box1{
+    width:257px;
+    height: 300px;
+    margin-left:12px;
+    margin-right: 12px;
+    float: left;
+    border-color: #f7f7f7;
+    box-shadow: 0 0 10px 0 grey;
+}
+#lian2 .box1 .img1{
+    width:257px;
+    height: 165px;
+    background:url(../img/练习2/练习2-1.jpg);
+    float: left;
+    margin-bottom: 26px;
+}
+#lian2 h4{
+    text-align: center;
+    color:#454545;
+    font-size: 20px;
+    line-height: 20px;
+}
+#lian2 p{
+    margin-top:21px;
+    color:#cdcdcd;
+    font-size:14px;
+    line-height: 22px;
+    text-align: left;
+    padding:0px 16px 0px 12px;
+}
+#lian2 .box .box2{
+    width:257px;
+    height: 300px;
+    margin-left:12px;
+    margin-right: 12px;
+    float: left;
+    float: left;
+    border-color: #f7f7f7;
+    box-shadow: 0 0 10px 0 grey;
+}
+#lian2 .box2 .img2{
+    width:257px;
+    height: 165px;
+    background:url(../img/练习2/练习2-2.jpg);
+    float: left;
+    margin-bottom: 26px;
+}
+#lian2 .box .box3{
+    width:257px;
+    height: 300px;
+    margin-left:12px;
+    margin-right: 12px;
+    float: left;
+    float: left;
+    border-color: #f7f7f7;
+    box-shadow: 0 0 10px 0 grey;
+}
+#lian2 .box3 .img3{
+    width:257px;
+    height: 165px;
+    background:url(../img/练习2/练习2-3.jpg);
+    float: left;
+    margin-bottom: 26px;
+}
+#lian2 .box .box4{
+    width:257px;
+    height: 300px;
+    margin-left:12px;
+    margin-right: 12px;
+    float: left;
+    float: left;
+    border-color: #f7f7f7;
+    box-shadow: 0 0 10px 0 grey;
+}
+#lian2 .box4 .img4{
+    width:257px;
+    height: 165px;
+    background:url(../img/练习2/练习2-4.jpg);
+    float: left;
+    margin-bottom: 26px;
+}
