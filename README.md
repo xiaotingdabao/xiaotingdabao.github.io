@@ -9,3 +9,4 @@
 <p><a target="_blank" href="https://xiaotingdabao.github.io/wolong/html/wolong.html">day05-卧龙控股</a</p>
 <p><a target="_blank" href="https://xiaotingdabao.github.io/%E8%B6%85%E5%87%A1%E7%A7%91%E6%8A%80/html/chaofan.html">day07-超凡科技</a</p>
 <p><a target="_blank" href="https://xiaotingdabao.github.io/dianzixiangce/html/dzxc.html">day08-电子相册</a</p>
+<p><a target="_blank" href="https://xiaotingdabao.github.io/qg/html/qg.html">day09-小鹿</a</p>
