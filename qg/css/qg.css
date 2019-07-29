@@ -1,0 +1,927 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#xl{
+    width: 100%;
+    height:4452px;
+}
+#xl .clearfix::after{
+    content:"";
+    display: block;
+    height: 0px;
+    clear: both;
+    overflow: hidden;
+    visibility: hidden;
+}
+#xl .content{
+    width:1200px;
+    height:100%;
+    margin:auto;
+    overflow: hidden;
+}
+#xl .header{
+    width:100%;
+    height:70px;
+    background-color:white;
+}
+#xl .header .logo{
+    text-indent: -999px;
+    margin-top: 18px;
+    width:72px;
+    height:32px;
+    float: left;
+    background:url(../images/logo_1.png);
+}
+#xl .header .place{
+    color:#ffa000;
+    font-size:11px;
+    line-height:11px;
+    height:11px;
+    float: left;
+    margin-top:28px;
+    margin-left: 15px;
+}
+#xl .header .hul{
+    width:648px;
+    height:15px;
+    float: right;
+    margin-top: 28px;
+}
+#xl .header .hul .hli{
+    width:108px;
+    height:15px;
+    font-size:15px;
+    line-height:15px;
+    float: left;
+}
+#xl .header .hul .hli a{
+    text-decoration: none;
+    color:black;
+}
+#xl .header .hul .hli a:hover{
+    color:#ffa000;
+}
+#xl .banner{
+    width:100%;
+    height:350px;
+    background:url(../images/banner.png);
+}
+#xl .banner .bul{
+    width:240px;
+    height: 350px;
+    list-style: none;
+    background-color: gray;
+    opacity: 0.5;
+    float: left;
+    position: relative;
+}
+#xl .banner .bul .bli{
+    height:70px;
+    padding-left: 65px;
+}
+#xl .banner .bul .bli .bimg{
+    width:22px;
+    height:22px;
+    background-position: 65px center;
+}
+#xl .banner .bul .bli a{
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    line-height: 70px;
+    height:70px;
+    font-size:17px;
+    text-align: center;
+}
+#xl .banner .bul .bli .nav1{
+    width:477px;
+    height:100%;
+    top:0px;
+    bottom: 0px;
+    left: 240px;
+    background-color:gray;
+    opacity: 1;
+    text-align: right;
+    position: absolute;
+    display: none;
+}
+#xl .banner .bul .bli:hover{
+    background-color: gray;
+    opacity: 1;
+}
+#xl .banner .bul .bli:hover .nav1{
+    display: block;
+}
+#xl .banner .bul .bli .nav1 .nav1-li{
+    /*height:70px;*/
+    float: left; 
+    padding-top: 37px;
+    color:white;
+}
+#xl .banner .bul .bli .nav1 .nav1-li a{
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 18px;
+    color:white;
+    display: block;
+    padding:0px 35px;
+}
+#xl .banner .bul .bli .nav1 .nav1-li a:hover{
+    color:orange;
+}
+#xl .banner .bul .bli .nav1 .nli{
+    color:white;
+}
+#xl .main1{
+    width:100%;
+    height:197px;
+    overflow: hidden;
+}
+#xl .main1 .m1-box{
+    height:97px;
+    margin-bottom:60px;
+    margin-top:40px;
+    overflow: hidden;
+}
+#xl .main1 .m1-box li{
+    height:97px;
+    float: left;
+    padding:0px 48px;
+}
+#xl .main1 .m1-box li .sp{
+    width:60px;
+    height: 60px;
+    display: block;
+    margin-left: 15px;
+    background:url(../images/satyr.png) no-repeat; 
+}
+#xl .main1 .m1-box li .m1-span{
+    color:#000;
+    font-size:15px;
+    line-height: 15px;
+    text-align: center;
+    display: block;
+    margin-top: 22px;
+}
+#xl .main1 .m1-box  li .m1-box1{
+    background-position: 0px 0px; 
+}
+#xl .main1 .m1-box  li .m1-box2{
+    background-position: 0px -75px; 
+}
+#xl .main1 .m1-box  li .m1-box3{
+    background-position: 0px -153px; 
+}
+#xl .main1 .m1-box  li .m1-box4{
+    background-position: 0px -228px; 
+}
+#xl .main1 .m1-box  li .m1-box5{
+    background-position: -94px 0px; 
+}
+#xl .main1 .m1-box  li .m1-box6{
+    background-position: -94px -76px; 
+}
+#xl .main2{
+    width:100%;
+    height:407px;
+    overflow: hidden;
+}
+#xl .main2 .m2-title{
+    height: 27px;
+    margin-bottom: 20px;
+}
+#xl .main2 .m2-title .m2-sp1{
+    font-size: 27px;
+    height:27px;
+    line-height:27px;
+    color:#000;
+}
+#xl .main2 .m2-title .m2-sp2{
+    font-size: 12px;
+    height:27px;
+    line-height:12px;
+    color:#333;
+    margin-left: 20px;
+    margin-top: 11px;
+}
+#xl .main2 .m2-box{
+    width: 100%;
+}
+#xl .main2 .m2-box .m2-b1{
+    width:540px;
+    height:360px;
+    position: relative;
+}
+#xl .main2 .m2-box .m2-b1 .m2-img1{
+    width:540px;
+    height:360px;
+    background:url(../images/100001190.jpg);
+}
+#xl .main2 .m2-box .m2-b2{
+    width:262px;
+    height:360px;
+    margin:0px 10px;
+}
+#xl .main2 .m2-box .m2-b2 .m2-bb1{
+    width:262px;
+    height:175px;
+    margin-bottom: 10px;
+    position: relative;
+}
+#xl .main2 .m2-box .m2-b2 .m2-bb2{
+    width:262px;
+    height:175px;
+    position: relative;
+}
+#xl .main2 .m2-box .m2-b2 .m2-bb1 .m2-img2{
+    width:262px;
+    height:175px;
+    margin-bottom:10px;
+    background:url(../images/9089538.jpg);
+    background-size: 100% 100%;
+}
+#xl .main2 .m2-box .m2-b2 .m2-bb2 .m2-img3{
+    width:262px;
+    height:175px;
+    background:url(../images/8842462.jpeg);
+    background-size: 100% 100%;
+}
+#xl .main2 .m2-box .m2-b3{
+    width:378px;
+    height:360px;
+    background:url(../images/srhyjt.png);
+}
+#xl .main2 .m2-box .m2-b1 .m2-box1{
+    width:540px;
+    height:80px;
+    background-color:#000;
+    opacity: 0.3;
+    position: absolute;
+    left:0px;
+    top:280px;
+}
+#xl .main2 .m2-box .m2-b1 .m2-box1 a{
+    text-decoration: none;
+    color:#fff;
+    line-height: 80px;
+    height:80px;
+    margin-left: 30px;
+}
+#xl .main2 .m2-box .m2-b2 .m2-bb1 .m2-box2{
+    width:262px;
+    height:60px;
+    background-color:#000;
+    opacity: 0.3;
+    position: absolute;
+    left:0px;
+    top:115px;
+}
+#xl .main2 .m2-box .m2-b2 .m2-bb1 .m2-box2 a{
+    text-decoration: none;
+    color:#fff;
+    line-height: 60px;
+    height:60px;
+    margin-left: 20px;
+}
+#xl .main2 .m2-box .m2-b2 .m2-bb2 .m2-box3{
+    width:262px;
+    height:60px;
+    background-color:#000;
+    opacity: 0.3;
+    position: absolute;
+    left:0px;
+    top:115px;
+}
+#xl .main2 .m2-box .m2-b2 .m2-bb2 .m2-box3 a{
+    text-decoration: none;
+    color:#fff;
+    line-height: 60px;
+    height:60px;
+    margin-left: 20px;
+}
+#xl .main3{
+    width:100%;
+    height:654px;
+    background-color: white;
+}
+#xl .main3 .m3-nav{
+    width:1200px;
+    height:84px;
+    overflow: hidden;
+}
+#xl .main3 .m3-nav .m3-ul{
+    height:12px;
+    margin-top:40px;
+    margin-left:0px;
+}
+#xl .main3 .m3-nav .m3-ul .m3-li{
+    width:65px;
+    height:12px;
+    padding:0px 26.5px;
+}
+#xl .main3 .m3-nav .m3-ul .m3-li a{
+    text-decoration: none;
+    color:#000;
+    vertical-align: bottom;
+}
+#xl .main3 .m3-nav .m3-ul .m3-li a:hover{
+    display: block;
+    color:orange;
+}
+#xl .main3 .m3-nav .m3-ul .more a{
+    text-decoration: none;
+    font-size: 12px;
+    color:#9b9b9b;
+    vertical-align: bottom;
+}
+#xl .main3 .list-box{
+    width:570px;
+    height:160px;
+    background-color:white;
+    margin-bottom:30px;
+}
+#xl .main3 .list-box:nth-child(2n+1){
+    margin-right: 60px;
+}
+#xl .main3 .list-box .list-img{
+    float: left;
+    margin-right: 30px;
+}
+#xl .main3 .list-box h2{
+    margin-top: 8px;
+    font-size: 18px;
+    color:#000;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+#xl .main3 .list-box .span1{
+    font-size: 12px;
+    float: left;
+    color:#c8c8c8;
+}
+#xl .main3 .list-box .span2{
+    font-size: 9px;
+    float:left;
+    color:#c8c8c8;
+    margin-left:42px; 
+}
+#xl .main3 .list-box .m3-p{
+    width:299px;
+    height: 67px;
+    margin-top:3px;
+    font-size:12px;
+    line-height:25px;
+    color:#000;
+    text-align:left;
+    float: right;
+    white-space: pre-line;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp:3;
+    -webkit-box-orient: vertical;
+}
+#xl .main4{
+    width:100%;
+    height: 673px;
+    background-color:#f8f8f8;
+}
+#xl .main4 .m4-title{
+    margin-top: 42px;
+    height: 27px;
+    margin-bottom: 20px;
+}
+#xl .main4 .m4-title .m4-sp1{
+    font-size: 27px;
+    height:27px;
+    line-height:27px;
+    color:#000;
+}
+#xl .main4 .m4-title .m4-sp2{
+    font-size: 12px;
+    height:27px;
+    line-height:12px;
+    color:#333;
+    margin-left: 20px;
+    margin-top: 11px;
+}
+#xl .main4 .m4-title .more a{
+    text-decoration: none;
+    font-size: 12px;
+    color:#9b9b9b;
+    vertical-align: bottom;
+}
+#xl .main4 .help{
+    width:100%;
+    height:180px;
+    position: relative;
+}
+#xl .main4 .help .m4-t{
+    width:100%;
+    height:180px;
+    background: url(../images/bg-help.png);
+}
+#xl .main4 .help .help-lj{
+    width:415px;
+    height:74px;
+    position: absolute;
+    top:52px;
+    left:250px;
+}
+#xl .main4 .help .help-lj .help-span1{
+    height: 28px;
+    line-height:28px;
+    color:#000;
+    font-size: 28px; 
+    display: block;
+    margin-bottom: 31px;
+}
+#xl .main4 .help .help-lj .help-span2{
+    height: 14px;
+    line-height:14px;
+    color:#000;
+    font-size: 14px; 
+}
+#xl .main4 .help .lhelp{
+    width:180px;
+    height:60px;
+    background-color: #ffa000;
+    font-size:16px;
+    line-height: 60px;
+    text-align: center;
+    position: absolute;
+    left:870px;
+    top:50px;
+}
+#xl .main4 .help .lhelp a{
+    color:white;
+    text-decoration: none;
+    display: block;
+}
+#xl .main4 .help .lhelp:hover .lwx{
+    display: block;
+}
+#xl .main4 .help .lwx{
+    width:180px;
+    height:135px;
+    background-color:white;
+    text-align: center;
+    position: absolute;
+    top:-80px;
+    left: 870px;
+    display: none;
+}
+#xl .main4 .help .lwx p{
+    color:#000;
+    font-size:12px;
+}
+#xl .main4 .help .lwx .em{
+    width:100px;
+    height:100px;
+    background-size: 100% 100%;
+}
+#xl .main4 .m4-b{
+    margin-top: 30px;
+    width:1200px;
+    height:335px;
+}
+#xl .main4 .m4-box{
+    width:270px;
+    height:335px;
+    margin-left:20px;
+    margin-right:20px;
+    background-color:white;
+    position: relative;
+}
+#xl .main4 .m4-box .m4-img{
+    width:270px;
+    height:180px;
+    background-size: 100% 100%;
+}
+#xl .main4 .m4-box .img-a{
+    height:15px;
+    text-decoration: none;
+    color:#fff;
+    line-height:15px;
+    font-size:15px;
+    position: absolute;
+    top:83px;
+    left:79px;
+}
+#xl .main4 .m4-box .m4-ul{
+    height:33px;
+    margin:14px 20px 0px 20px;
+    border-bottom: 1px dashed #e8e8e8;
+}
+#xl .main4 .m4-box .m4-ul li{
+    padding:0px 20px;
+    height:33px;
+    float: left;
+}
+#xl .main4 .m4-box .m4-ul li a{
+    text-decoration: none;
+    color:#000;
+    font-size:11px;
+    line-height:11px;
+    background-color:#fdf2e9;
+}
+#xl .main4 .m4-box .m4-ul1{
+    padding: 11px 20px 13px 20px;
+}
+#xl .main4 .m4-box .m4-ul1 .m4-uli{
+    height:20px;
+    background:url(../images/icon-q.png) no-repeat left center;
+    width:210px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+#xl .main4 .m4-box .m4-ul1 .m4-uli a{
+    text-decoration: none;
+    color:#000;
+    line-height:20px;
+    font-size: 12px;
+    margin-left: 27px;
+}
+#xl .main5{
+    width:100%;
+    height:1046px;
+    background-color:white;
+}
+#xl .main5 .m5-title{
+    margin-top: 42px;
+    height: 27px;
+    margin-bottom: 20px;
+}
+#xl .main5 .m5-title .m5-sp1{
+    font-size: 27px;
+    height:27px;
+    line-height:27px;
+    color:#000;
+}
+#xl .main5 .m5-title .m5-sp2{
+    font-size: 12px;
+    height:27px;
+    line-height:12px;
+    color:#333;
+    margin-left: 20px;
+    margin-top: 11px;
+}
+#xl .main5 .m5-search{
+    width:100%;
+    height:350px;
+    position: relative;
+}
+#xl .main5 .m5-search .m-img{
+    width:100%;
+    height:350px;
+    background: url(../images/bg-counsoler.png);
+}
+#xl .main5 .m5-search .m5-wt{
+    width:365px;
+    height:290px;
+    background-color:#000;
+    background-color: rgba(3, 3, 3, 0.616);
+    position: absolute;
+    left:30px;
+    top:30px;
+}
+#xl .main5 .m5-search .m5-wt .sr-title{
+    color:white;
+    text-align: center;
+    height:78px;
+    line-height:78px;
+    font-size:18px;
+}
+#xl .main5 .m5-search .m5-wt .m5-box{
+    width:300px;
+    height: 174px;
+    padding:0px 30px 33px 30px;
+}
+#xl .main5 .m5-search .m5-wt .m5-box .m5-sb{
+    width:90px;
+    height:36px;
+    margin:5px;
+    background-color: #fff;
+}
+#xl .main5 .m5-search .m5-wt .m5-box .m5-sb a{
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 36px;
+    text-align: center;
+    color:#000;
+    display: block;
+}
+#xl .main5 .m5-search .m5-wt .m5-box .m5-sb:hover a{
+    color:#fff;
+    background-color: #ffa000;
+}
+#xl .main5 .mx-title{
+    height: 12px;
+    margin-top: 41px;
+}
+#xl .main5 .mx-title a{
+    text-decoration: none;
+    color:#000;
+}
+#xl .main5 .mx-title1{
+    font-size: 12px;
+    height:12px;
+    line-height:12px;
+    margin:0px 30px;
+}
+#xl .main5 .mx-title2{
+    font-size: 12px;
+    height:12px;
+    line-height:12px;
+    margin:0px 30px;
+}
+#xl .main5 .mx-title .more a{
+    text-decoration: none;
+    font-size: 12px;
+    color:#9b9b9b;
+    vertical-align: bottom;
+}
+#xl .main5 .mx-box{
+    height: 274px;
+    margin-top:31px;
+}
+#xl .main5 .mx-box .mx-box1{
+    height: 274px;
+}
+#xl .main5 .mx-box .mx-box1 .mx-b1{
+    width:224px;
+    height:274px;
+    background-repeat:no-repeat;
+    background-size: 100% 100%;
+    margin:0px 10px;
+    position: relative;
+}
+#xl .main5 .mx-box .mx-box2{
+    height: 274px;
+    display: none;
+}
+#xl .main5 .mx-box .mx-box2 .mx-b1{
+    width:224px;
+    height:274px;
+    background-repeat:no-repeat;
+    background-size: 100% 100%;
+    margin:0px 10px;
+}
+#xl .main5 .mx-box .mx-b1 .m-a{
+    width:224px;
+    height:60px;
+    font-size:16px;
+    line-height:60px;
+    position: absolute;
+    left: 0px;
+    top:214px;
+    text-align: center;
+}
+#xl .main5 .mx-box .mx-b1 .m-a a{
+    text-decoration: none;
+    color:white;
+    display:block;
+}
+#xl .main5 .mx-title a:hover{
+    color:#ffa000;
+}
+/* 
+#xl .main5 .mx-title .mx-title1 a:hover .mx-box1{
+    display: block;
+}
+#xl .main5 .mx-title .mx-title1 a:hover .mx-box2{
+    display: none;
+}
+#xl .main5 .mx-title .mx-title2 a:hover .mx-box1{
+    display: none;
+}
+#xl .main5 .mx-title .mx-title2 a:hover .mx-box2{
+    display: block;
+}
+ */
+#xl .main5 .tuan{
+    width:100%;
+    height:180px;
+    margin-top:30px;
+    position: relative;
+}
+#xl .main5 .tuan .dui{
+    width:100%;
+    height:180px;
+    background:url(../images/300bg.png);
+}
+#xl .main5 .tuan .dui1{
+    height:28px;
+    line-height:28px;
+    font-size:28px;
+    color:#000;
+    position: absolute;
+    left:251px;
+    top:47px;
+}
+#xl .main5 .tuan .dui2{
+    height:23px;
+    line-height:23px;
+    font-size:23px;
+    color:#000;
+    position: absolute;
+    left:250px;
+    top:105px;
+}
+#xl .main5 .tuan .dui3{
+    height:12px;
+    line-height:12px;
+    font-size:12px;
+    color:#333;
+    position: absolute;
+    top:125px;
+    left:853px;
+}
+#xl .main5 .tuan .dui4{
+    width:180px;
+    height:60px;
+    background-color: #ffa000;
+    position: absolute;
+    top:45px;
+    left:862px;
+    text-align: center;
+}
+#xl .main5 .tuan .dui4 a{
+    text-decoration: none;
+    color:white;
+    line-height:60px;
+    font-size:17px;
+    display: block;
+}
+#xl .main6{
+    width:100%;
+    height: 429px;
+    background-color:#f8f8f8;
+}
+#xl .main6 .m6-title{
+    height: 17px;
+    margin-top: 50px;
+    margin-bottom: 21px;
+}
+#xl .main6 .m6-title .m6-t1{
+    font-size: 17px;
+    height:17px;
+    line-height:17px;
+    vertical-align: bottom;
+    color: #333;
+}
+#xl .main6 .m6-title .more a{
+    text-decoration: none;
+    font-size: 12px;
+    color:#9b9b9b;
+    vertical-align: bottom;
+}
+#xl .main6 .m6-box{
+    width:100%;
+    height:120px;
+}
+#xl .main6 .m6-box .m6-b{
+    width:380px;
+    height:120px;
+    background:url(../images/bg-report-1.png);
+}
+#xl .main6 .m6-box .m6-b .m6-p{
+    background:url(../images/03.png) no-repeat 20px 31px;
+    color:#000;
+    font-size:18px;
+    line-height:32px;
+    padding:25px 0px 0px 36px;
+    white-space: pre-line;
+}
+#xl .main6 .hz{
+    height: 
+}
+#xl .main6 .hz .hh{
+    background:url(../images/l1.png) no-repeat;
+    width:150px;
+    height:70px;
+    margin:0px 12px;
+    float: left;
+    display: block;
+}
+#xl .main6 .hz .hz-box1{
+    background-position: 0px 0px;
+}
+#xl .main6 .hz .hz-box2{
+    background-position: 0px -90px;
+}
+#xl .main6 .hz .hz-box3{
+    background-position: 0px -180px;
+}
+#xl .main6 .hz .hz-box4{
+    background-position: 0px -270px;
+}
+#xl .main6 .hz .hz-box5{
+    background-position: -165px 0px;
+}
+#xl .footer{
+    width:100%;
+    height: 626px;
+    background-color:#1b1b1b;
+}
+#xl .footer .f-title {
+    height:38px;
+    margin-top:60px;
+}
+#xl .footer .f-title .f-t1{
+    width:100px;
+    height:38px;
+    color:#a4a4a4;
+    background: #494949;
+    font-size: 15px;
+    line-height: 38px;
+    text-align: center;
+}
+#xl .footer .f-title .f-t2{
+    width:100px;
+    height:38px;
+    color:#a4a4a4;
+    background: #323232;
+    font-size: 15px;
+    line-height: 38px;
+    text-align: center;
+}
+#xl .footer .f-ul{
+    margin-top:20px;
+    height: 32px;
+}
+#xl .footer .f-ul li{
+    padding:0px 34px;
+    color:#a4a4a4;
+    float: left;
+    font-size: 12px;
+}
+#xl .footer .footer-hr{
+    margin-top:62px;
+    width:100%;
+    border-bottom:1px solid #a4a4a4;
+    height: 0px;
+}
+#xl .footer .f-box{
+    margin-top:60px;
+}
+#xl .footer .f-box .f-bul{
+    padding: 0px 50px;
+    float: left;
+}
+#xl .footer .f-box .f-bul  .bul-t1{
+    margin-bottom: 14px;
+}
+#xl .footer .f-box .f-bul  .bul-t2{
+    margin: 8px 0px;
+}
+#xl .footer .f-box .f-bul  .bul-t1 a{
+    text-decoration: none;
+    color:white;
+    font-size: 13px;
+    height: 13px;
+    line-height: 13px;
+}
+#xl .footer .f-box .f-bul  .bul-t2 a{
+    text-decoration: none;
+    color:#c8c8c8;
+    font-size: 12px;
+    height: 12px;
+    line-height: 12px;
+}
+#xl .footer .f-rt1{
+    margin-left:190px;
+}
+#xl .footer .f-rt1 h2{
+    text-align: left;
+    font-size: 17px;
+    color:white;
+    line-height: 17px;
+    margin-bottom: 26px;
+}
+#xl .footer .f-rt1 h3{
+    text-align: left;
+    font-size: 20px;
+    color:white;
+    line-height: 20px;
+    margin-bottom: 45px;
+}
+#xl .footer .f-rt1 .f-t2{
+    width:140px;
+    height:40px;
+    border:1px solid #666;
+    font-size:16px;
+    line-height:40px;
+    text-align:center;
+    margin-left:14px;
+    color:white;
+    background-color:#444;
+}
+#xl .footer .footer-hr1{
+    width:100%;
+    margin-top:270px;
+    border-bottom:1px solid #a4a4a4;
+    height: 0px;
+}
