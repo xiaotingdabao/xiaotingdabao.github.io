@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    height: 100%;
+}
+#an{
+    height: 100%;
+    background:#ccc;
+    overflow: hidden;
+}
+#an .people{
+    margin:100px auto;
+    background: #ccc;
+    width:524px;
+    height: 518px;
+}
+#an .people .header{
+    width:200px;
+    height:100px;
+    margin-left: 162px;
+    background-color: #51a251;
+    border-radius: 50% 50% 0 0/100% 100% 0 0;
+    position: relative;
+    margin-bottom: 10px;
+}
+#an .people .header .eye1{
+    width:20px;
+    height:20px;
+    background-color:#fff;
+    border-radius: 50% 50% 50% 50%/50% 50% 50% 50%;
+    position: absolute;
+    top:50px;
+    left:60px;
+}
+#an .people .header .eye2{
+    width:20px;
+    height:20px;
+    background-color:#fff;
+    border-radius: 50% 50% 50% 50%/50% 50% 50% 50%;
+    position: absolute;
+    top:50px;
+    left:120px;
+}
+#an .people .body{
+    height: 230px;
+    margin-left: 122px;
+}
+#an .people .body .hand1{
+    width:30px;
+    height:180px;
+    float: left;
+    margin-right: 10px;
+    background-color: #51a251;
+    border-radius: 6px 6px 6px 6px/8px 8px 8px 8px;
+}
+#an .people .body .qugan{
+    width:200px;
+    height: 230px;
+    background-color: #51a251;
+    float: left;
+    margin-right: 10px;
+    border-radius: 0px 0px 15px 15px/0px 0px 15px 15px;
+}
+#an .people .body .hand2{
+    width:30px;
+    height:180px;
+    float: left;
+    background-color: #51a251;
+    border-radius: 6px 6px 6px 6px/8px 8px 8px 8px;
+}
+#an .people .footer{
+    height: 80px;
+}
+#an .people .footer .footer1{
+    width:30px;
+    height:80px;
+    float: left;
+    margin-left:202px;
+    background-color: #51a251;
+    border-radius: 0px 0px 10px 10px/0px 0px 10px 10px;
+}
+#an .people .footer .footer2{
+    width:30px;
+    height:80px;
+    float: left;
+    margin-left:60px;
+    background-color: #51a251;
+    border-radius: 0px 0px 10px 10px/0px 0px 10px 10px;
+}
