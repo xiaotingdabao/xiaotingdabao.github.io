@@ -1,0 +1,254 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    height: 100%;
+}
+#gl{
+    height: 100%;
+    background-color: pink;
+}
+#gl .top{
+    /* height: 87px; */
+    background-color: #7ab5e9;
+    overflow: hidden;
+    border-bottom: 3px double #265fa6;
+}
+#gl .top h2{
+    /* height: 23px; */
+    margin-left: 30px;
+    margin-top: 30px;
+    font-size:23px;
+    color:#fff;
+    float: left;
+}
+/* #gl .top .top-right{
+    /* height: 90px; 
+} */
+#gl .top .top-right1{
+    width:264px;
+    height:21px;
+    border-bottom: 1px solid #e3e2e2;
+    float: right;
+    margin-right: 30px;
+    background-color: #fff;
+    margin-bottom: 12px;
+}
+#gl .top .top-right1 .sp1{
+    font-size:11px; 
+    color:#6d6d6d;
+    float: left;
+}
+#gl .top .top-right2{
+    /* height: 52px; */
+    float: right;
+}
+#gl .top .top-right2 ul{
+    /* height:52px;/ */
+}
+#gl .top .top-right2 ul li{
+    width:95px;
+    /* height:52px; */
+    float: left;
+    text-align: center;
+}
+#gl .top .top-right2 ul li a{
+    text-decoration: none;
+    color:#fff;
+    font-size: 12px;
+    text-align: center;
+    display: block;
+}
+#gl .top .top-right2 ul li:hover{
+    background:url(../images/libj.png);
+}
+#gl .bottom{
+    height: calc(100% - 90px);
+    background-color: #fff;
+}
+#gl .bottom .left{
+    float: left;
+    width:197px;
+    height:100%;
+    background-color:#417ec8;
+}
+#gl .bottom .left .nav1 li a{
+    text-decoration: none;
+    color:white;
+    font-size: 12px;
+    display: inline-block;
+    background-color:#417ec8;
+}
+#gl .bottom .left .nav1 li{
+    /* text-align: center; */
+    /* width:calc(100% - 40px); */
+    /* height: 32px; */
+    /* padding-left: 40px; */
+}
+#gl .bottom .left .nav1 li .l2{
+    display: none;
+}
+#gl .bottom .left .nav1 li:hover a{
+    color:#000;
+    background-color: #fff;
+}
+#gl .bottom .left .nav1 li:hover .l1{
+    display: none;
+}
+#gl .bottom .left .nav1 li:hover .l2{
+    display: block;
+}
+#gl .bottom .left .nav1 li:hover{
+    /* display: block; */
+    background-color: #fff;
+}
+
+
+
+
+
+
+
+
+#gl .bottom .left .nav1 li:hover .nav2{
+    display: block;
+}
+#gl .bottom .left .nav1 li .nav2{
+    /* position: absolute; */
+    top:32px;
+    left: 0px;
+    display: none;
+}
+#gl .bottom .left .nav1 li .nav2 li{
+    /* width:100%; */
+    text-align: center;
+    height: 32px;
+    background-color: #417ec8;
+}
+#gl .bottom .left .nav1 li .nav2 li a{
+    text-decoration: none;
+    color:#b9ddff;
+    background-color: #417ec8;
+    font-size: 12px;
+    /* padding-left: 40px; */
+    /* text-align: center; */
+}
+#gl .bottom .left .nav1 li .nav2 li:hover{
+    background-color: #fff;
+}
+#gl .bottom .left .nav1 li .nav2 li:hover a{
+    color: #000;
+    background-color: #fff;
+}
+
+
+
+
+
+
+#gl .bottom .right{
+    float: left;
+    width:calc(100% - 197px);
+    height:100%;
+    background-color:#fff;
+    background: url(../images/pbj.jpg) no-repeat left center;
+}
+#gl .bottom .right .right-t{
+    width:calc(100% - 197px);
+    border-bottom: 1px solid #e3e3e3;
+}
+#gl .bottom .right .right-t h4{
+    font-size: 11px;
+    color: #636363;
+    padding:6px 0px 7px 0px;
+}
+#gl .bottom .right .right-s h5{
+    font-size: 12px;
+    color: #000;
+    padding:17px 28px 7px 0px;
+    font-weight: bold;
+    float: left;
+}
+#gl .bottom .right .right-s label{
+    font-size: 12px;
+    color: #000;
+    float: left;
+    line-height: 51px;
+}
+#gl .bottom .right .right-s input{
+    width: 120px;
+    /* height:24px; */
+    margin-top: 11px;
+    float: left;
+}
+#gl .bottom .right .right-s .search{
+    width:56px;
+    margin:15px 0px 0px 23px;
+}
+#gl .bottom .right .right-l{
+    width:100%;
+    /* margin-top:14px; */
+}
+#gl .bottom .right .right-l table{
+    width:100%;
+    border-spacing: 0px;
+    border-collapse: collapse;
+    border:1px solid #d6d6d6;
+    font-size: 11px;
+    margin:9px 0px;
+}
+#gl .bottom .right .right-l table .tt{
+    font-weight: bold;
+    text-align: center;
+}
+#gl .bottom .right .right-l table .t1{
+    text-align: right;
+    background-color: #f4f4f4;
+}
+#gl .bottom .right .right-l table tbody tr:nth-child(2n){
+    background-color: #f1f1f1;
+}
+#gl .bottom .right .right-l table tbody tr td{
+    text-align: center;
+}
+#gl .bottom .right .right-f{
+    margin-top: 3px;
+}
+#gl .bottom .right .right-f .f-l{
+    float: left;
+    font-size: 11px;
+    color:#000;
+    padding:4px 0px 0px 27px;
+}
+#gl .bottom .right .right-f .f-r{
+    float: right;
+}
+#gl .bottom .right .right-f .f-r span{
+    float: left;
+    font-size: 11px;
+    color:#000;
+    padding:0px 25px 0px 0px;
+}
+#gl .bottom .right .right-f .f-r ul{
+    float: left;
+}
+#gl .bottom .right .right-f .f-r ul li{
+    float: left;
+    width:18px;
+    /* height:18px; */
+    border:1px solid #a3a3a3;
+    margin:0px 5px;
+    background-color: #fbfbfb;
+}
+#gl .bottom .right .right-f .f-r ul li a{
+    text-decoration: none;
+    font-size: 9px;
+    padding:0px 4.5px;
+    color:#000;
+    display: block;
+}
+#gl .bottom .right .right-f .f-r ul li:hover{
+    background-color: #417eb7;
+    color:#fff;
+}
