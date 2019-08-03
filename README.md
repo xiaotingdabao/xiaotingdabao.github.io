@@ -9,4 +9,5 @@
   <p><a target="_blank" href="https://xiaotingdabao.github.io/guanli/html/gl.html">day10-农业管理系统</a</p>
 <p><a target="_blank" href="https://xiaotingdabao.github.io/android/html/1.html">day11-android小人</a</p>
 <p><a target="_blank" href="https://xiaotingdabao.github.io/%E8%A1%A8%E5%8D%95%E6%A1%86/html/1.html">day11-表单框</a</p>
+  <p><a target="_blank" href="https://xiaotingdabao.github.io/soushi/html/ss.html">day12-搜石</a</p>
 <p><a target="_blank" href="https://xiaotingdabao.github.io/hun/html/hun.html">day13-婚纪网删减版</a</p>
