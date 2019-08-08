@@ -13,4 +13,4 @@
 <p><a target="_blank" href="https://xiaotingdabao.github.io/hun/html/hun.html">day13-婚纪网删减版</a</p>
     <p><a target="_blank" href="https://xiaotingdabao.github.io/ky/html/ky.html">day14-开源</a</p>
  <p><a target="_blank" href="https://xiaotingdabao.github.io/elm/html/elm.html">day15-饿了么</a</p>
- <p><a target="_blank" href="https://xiaotingdabao.github.io/hlj/html/hlj.html">day16-婚礼纪移动端</a</p>
+ <p><a target="_blank" href="https://xiaotingdabao.github.io/hhh/html/hlj.html">day16-婚礼纪移动端</a</p>
